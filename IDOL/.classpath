@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
@@ -15,5 +16,18 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="//scm-nas.int.westgroup.com/pub3011/SCM/Builds/JDG/InternalLibraries/Tugboat_1.1/Tugboat_1_1.jar"/>
+	<classpathentry kind="lib" path="//scm-nas.int.westgroup.com/pub3011/SCM/Builds/JDG/ExternalLibraries/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="//scm-nas.int.westgroup.com/pub3011/SCM/Builds/JDG/InternalLibraries/aqueduct.jar"/>
+	<classpathentry kind="lib" path="//scm-nas.int.westgroup.com/pub3011/SCM/Builds/JDG/InternalLibraries/cistern.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.3.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

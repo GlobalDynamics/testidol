@@ -24,17 +24,6 @@
 	<div class="clear"></div>
 	<div style="margin-top:20px;"></div>
 	<div id="content">
-		<div id="sidebar">
-			<div class="box">
-				<div class="h_title">&#8250; Main control</div>
-				<ul id="home">
-					<li class="b1"><a class="icon view_page" href="">Visit site</a></li>
-					<li class="b2"><a class="icon report" href="">Reports</a></li>
-					<li class="b1"><a class="icon add_page" href="">Add new page</a></li>
-					<li class="b2"><a class="icon config" href="">Site config</a></li>
-				</ul>
-			</div>
-		</div>
 		<div id="main">
 			<div class="clear"></div>
 			
